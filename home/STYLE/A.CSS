@@ -1,0 +1,23 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ .container {
+     display: flex;
+     justify-content: space-between;
+     background-color: rgb(78, 86, 86);
+     align-items: center;
+     padding: 10px 30px;
+ }
+
+ .Menudata {
+     display: flex;
+     gap: 10px;
+ }
+
+ .logdata {
+     display: flex;
+     gap: 10px;
+
+ }
